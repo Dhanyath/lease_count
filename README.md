@@ -17,6 +17,3 @@ npm start
 
 #To generate a standalone apk
 eas build --profile preview --platform android
-
-
-

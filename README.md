@@ -1,7 +1,7 @@
 # lease_count
 This app is used to store the least count player score.
 
-#Install the dependencies listed in package.json
+#Install the dependencies listed in package.json 
 npm install --force
 
 #Create your eas account and follow the below steps
